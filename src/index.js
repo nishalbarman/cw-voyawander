@@ -11,7 +11,7 @@ import { HolidayContextProvider } from "./Holiday/HolidayContext";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/cw-voyawander">
       <HolidayContextProvider>
         <App />
       </HolidayContextProvider>
