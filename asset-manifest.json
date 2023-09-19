@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2380902e.css",
-    "main.js": "/static/js/main.41697eee.js",
-    "static/js/787.a7c57a84.chunk.js": "/static/js/787.a7c57a84.chunk.js",
-    "static/media/mountains.png": "/static/media/mountains.b698d5928125b072d5e3.png",
-    "static/media/roundtwoimage.png": "/static/media/roundtwoimage.069f6f02d7893e33b99f.png",
-    "static/media/logo_navbar.png": "/static/media/logo_navbar.b66b64d011f46697dfe2.png",
-    "static/media/logo_website.png": "/static/media/logo_website.1fe3172a2883e919e381.png",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.2380902e.css.map": "/static/css/main.2380902e.css.map",
-    "main.41697eee.js.map": "/static/js/main.41697eee.js.map",
-    "787.a7c57a84.chunk.js.map": "/static/js/787.a7c57a84.chunk.js.map"
+    "main.css": "/cw-voyawander/static/css/main.4ba9e470.css",
+    "main.js": "/cw-voyawander/static/js/main.f9ba3b67.js",
+    "static/js/787.a7c57a84.chunk.js": "/cw-voyawander/static/js/787.a7c57a84.chunk.js",
+    "static/media/mountains.png": "/cw-voyawander/static/media/mountains.b698d5928125b072d5e3.png",
+    "static/media/roundtwoimage.png": "/cw-voyawander/static/media/roundtwoimage.069f6f02d7893e33b99f.png",
+    "static/media/logo_navbar.png": "/cw-voyawander/static/media/logo_navbar.b66b64d011f46697dfe2.png",
+    "static/media/logo_website.png": "/cw-voyawander/static/media/logo_website.1fe3172a2883e919e381.png",
+    "static/media/revicons.eot": "/cw-voyawander/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/cw-voyawander/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/cw-voyawander/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/cw-voyawander/index.html",
+    "main.4ba9e470.css.map": "/cw-voyawander/static/css/main.4ba9e470.css.map",
+    "main.f9ba3b67.js.map": "/cw-voyawander/static/js/main.f9ba3b67.js.map",
+    "787.a7c57a84.chunk.js.map": "/cw-voyawander/static/js/787.a7c57a84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2380902e.css",
-    "static/js/main.41697eee.js"
+    "static/css/main.4ba9e470.css",
+    "static/js/main.f9ba3b67.js"
   ]
 }
